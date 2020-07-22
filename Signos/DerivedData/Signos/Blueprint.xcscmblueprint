@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6289E2A358ACE8F227D0D5A837E383DCB86BA33C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6289E2A358ACE8F227D0D5A837E383DCB86BA33C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4899A34D-FDE7-4383-B751-1AB87EC00C95",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6289E2A358ACE8F227D0D5A837E383DCB86BA33C" : "Signos\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Signos",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Signos\/Signos.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WillTomaz-dev\/Signos.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6289E2A358ACE8F227D0D5A837E383DCB86BA33C"
+    }
+  ]
+}
